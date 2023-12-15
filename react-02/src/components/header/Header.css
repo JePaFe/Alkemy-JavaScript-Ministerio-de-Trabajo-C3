@@ -1,0 +1,7 @@
+.main-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: aquamarine;
+  padding: 0.5em 1em;
+}
